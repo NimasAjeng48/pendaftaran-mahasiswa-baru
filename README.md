@@ -3,9 +3,9 @@
 1. download installer composer
 
 2. setelah composer terinstall buka command prompt kemudian pindahkan ke direktori c:\xampp/htdocs/
-   ketikkan > cd C:\xampp/htdocs/
+   ketikkan >cd C:\xampp/htdocs/
 
-3. setelah itu ketik > composer create-project --prefer-dist laravel/NamaProject
+3. setelah itu ketik >composer create-project --prefer-dist laravel/NamaProject
 
 4. selanjutnya composer akan mendownload skeleton dari framework laravel,
    berupa folders dan diles yang siap pakai, tunggu hingga prosesnya selesai.
